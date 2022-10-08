@@ -1,0 +1,15 @@
+{
+  "name": "typescript-academind",
+  "version": "1.0.0",
+  "description": "Typescript Academind course on youtube",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc app.ts & lite-server"
+  },
+  "author": "UAhmadSoft",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "nodemon": "^2.0.20"
+  }
+}
